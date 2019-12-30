@@ -1,4 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  main.cpp
-  Projeto01.vcxproj -> R:\Documentos\GIT\projetos\DesktopAppGL\Projeto01\bin\Debug-x64\Projeto01\Projeto01.exe
+  WinApp.cpp
+r:\documentos\git\projetos\desktopappgl\projeto01\projeto01\src\winapp.cpp(1): fatal error C1083: Não é possível abrir arquivo incluir: 'WinApp.h': No such file or directory
